@@ -3,12 +3,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer | Backend Developer
 --------------------
 
-*   🌍  I'm the GOAT in Software Development and let me prove it!!
-*   👉  My LinkedIn at [islam-osama-sd](https://www.linkedin.com/in/islam-osama-sd){:target="_blank"}
-*   🖥️  See my portfolio at [My Portfolio](https://islamosama.vercel.app){:target="_blank"}
-*   ✉️  You can contact me at [islamohessin@gmail.com](mailto:islamohessin@gmail.com){:target="_blank"}
-*   👉  Reach me on WhatsApp at [201558895833](https://wa.me/201558895833){:target="_blank"}
-
+* 🌍  I'm the GOAT in Software Development and let me prove it!!
+* 👉 My LinkedIn at <a href="https://www.linkedin.com/in/islam-osama-sd" target="_blank">islam-osama-sd</a>
+* 🖥️  See my portfolio at <a href="https://islamosama.vercel.app" target="_blank">My Portfolio</a>
+* ✉️  You can contact me at <a href="mailto:islamohessin@gmail.com">islamohessin@gmail.com</a>
+* 👉 Reach me on WhatsApp at <a href="https://wa.me/201558895833" target="_blank">201558895833</a>
 
  **<h3 align="left">Skills</h3>**
 
