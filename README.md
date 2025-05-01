@@ -1,11 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Islam
 ===================================================================================================================================
-Software Engineer | Full-Stack Developer with a Focus on Backend
+Software Engineer | Backend Developer
 --------------------
 
-*   🌍  I'm based in Egypt
+*   🌍  I'm the GOAT in Software Developement and let me proof !!
+*   👉  My LinkedIn at [islam-osama-sd](https://www.linkedin.com/in/islam-osama-sd)
 *   🖥️  See my portfolio at [My Portfolio](https://islamosama.vercel.app)
 *   ✉️  You can contact me at [islamohessin@gmail.com](mailto:islamohessin@gmail.com)
+*   👉  Rech to me on whatsapp at [201558895833](wa.me/201558895833)
 
 
  **<h3 align="left">Skills</h3>**
