@@ -1,11 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Islam
 ===================================================================================================================================
-Software Engineer | Back-end Developer | Full-Stack Developer (Back-end Focus)
+Full Stack Engineer | Backend-Oriented | Node.js & Golang & Python | Problem Solver | AI-Driven & Scalable Systems
 --------------------
+Full-Stack Engineer with 3+ years of experience, especially in backend systems, tackling complex challenges, I:
+• Drive ownership, innovation, and measurable results across government, fintech, e-learning, and international projects.
+• Design AI-driven solutions, microservices, and modular architectures to optimize performance and scalability.
+• Build high-performance, full-stack systems with Node.js, NestJS, Golang, and Python.
 
-* 🌍  I'm the GOAT in Software Development and let me prove it!!
 * 👉 My LinkedIn at <a href="https://www.linkedin.com/in/islam-osama-sd" target="_blank">islam-osama-sd</a>
-* 🖥️  See my portfolio at <a href="https://islamosama.vercel.app" target="_blank">My Portfolio</a>
 * ✉️  You can contact me at <a href="mailto:islamohessin@gmail.com">islamohessin@gmail.com</a>
 * 👉 Reach me on WhatsApp at <a href="https://wa.me/201558895833" target="_blank">201558895833</a>
 
